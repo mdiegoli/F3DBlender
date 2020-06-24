@@ -1,5 +1,7 @@
 # F3DBlender
 
+https://docs.blender.org/api/current/index.html
+
 ToDo:
 * delete default cube if exists
 * add curve
