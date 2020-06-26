@@ -15,6 +15,10 @@ https://developer.blender.org/P1134
 
 https://blenderartists.org/c/coding/released-scripts-and-themes/50
 
+#BlenderDeveloper
+
+https://developer.blender.org/project/view/3/
+
 ToDo:
 * delete default cube if exists
 * add curve
