@@ -11,13 +11,17 @@ start with:
 
 https://developer.blender.org/P1134
 
-#BlenderArtosts
+# BlenderArtosts
 
 https://blenderartists.org/c/coding/released-scripts-and-themes/50
 
-#BlenderDeveloper
+# BlenderDeveloper
 
 https://developer.blender.org/project/view/3/
+
+# BlenderVideo
+
+https://video.blender.org/video-channels/blender_channel/videos?a-state=42
 
 ToDo:
 * delete default cube if exists
