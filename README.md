@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=xscQ9tcN4GI&list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd
 
 https://cloud.blender.org/p/scripting-for-artists/5ee23daa2b34cbd30bc60295
 
+start with:
+
+https://developer.blender.org/P1134
+
 ToDo:
 * delete default cube if exists
 * add curve
