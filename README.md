@@ -23,6 +23,10 @@ https://developer.blender.org/project/view/3/
 
 https://video.blender.org/video-channels/blender_channel/videos?a-state=42
 
+#Addon Envelope to Skin (blender 2.8)
+
+https://github.com/anfeo/Blender-Sculpt-Tools
+
 ToDo:
 * delete default cube if exists
 * add curve
