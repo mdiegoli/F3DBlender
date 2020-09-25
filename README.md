@@ -11,7 +11,7 @@ start with:
 
 https://developer.blender.org/P1134
 
-# BlenderArtosts
+# BlenderArtists
 
 https://blenderartists.org/c/coding/released-scripts-and-themes/50
 
@@ -30,6 +30,10 @@ https://github.com/anfeo/Blender-Sculpt-Tools
 # Sphere skin modifier
 
 https://blender.community/c/rightclickselect/pSfbbc/
+
+# Skin modifier and grease pencil
+
+https://blendersushi.blogspot.com/2012/07/modifier-skin-modifier-and-grease-pencil.html
 
 ToDo:
 * delete default cube if exists
