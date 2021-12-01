@@ -23,6 +23,10 @@ https://developer.blender.org/project/view/3/
 
 https://video.blender.org/video-channels/blender_channel/videos?a-state=42
 
+# Python Crash Course for Blender!
+
+https://www.youtube.com/watch?v=XqX5wh4YeRw&t=912s
+
 # Addon Envelope to Skin (blender 2.8)
 
 https://github.com/anfeo/Blender-Sculpt-Tools
